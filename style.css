@@ -383,6 +383,7 @@ body{
     display: flex;
     flex-direction: row;
     gap: 1rem;
+    cursor: pointer;
 }
 
 .about-a{
